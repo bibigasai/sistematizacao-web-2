@@ -59,12 +59,6 @@ header::after {
     transition: .5s;
 }
 
-
-.logo {
-    cursor: pointer;
-    width: 150px;
-}
-
 header a {
     margin-right: 40px;
 }
